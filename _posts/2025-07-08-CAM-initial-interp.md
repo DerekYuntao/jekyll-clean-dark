@@ -2,13 +2,13 @@
 layout: post
 title: "Interpolating CESM CAM initial condition data"
 date: 2025-07-08
-description: Interpolating CESM CAM initial data from one resolution to anothe
+description: Interpolating CESM CAM initial data from one resolution to another
 share: true
 tags:
  - CESM
 ---
 
-Using FORTRAN interpic_new tool 
+Using FORTRAN interpic_new tool interpolating CESM CAM initial data from one resolution to another
 ## 1. Compiling interpic
 Go to directory ~/CESM/cesm2.1.5/components/cam/tools/
 Change the following part and 
