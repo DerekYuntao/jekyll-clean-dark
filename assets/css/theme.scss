@@ -97,6 +97,12 @@ body::before {
   z-index: -1;
 }
 
+@media screen and (max-width: 768px) {
+  body::before {
+    display: none;
+  }
+}
+
 //********************************************************
 //                    Social Links
 //********************************************************
