@@ -17,7 +17,7 @@
 //********************************************************
 
 // Several accent colors, choose one or create your own!
-$accent-color: #3CA2A2;    // original =)
+$accent-color: #0f518f;    // original =)
 //$accent-color: #C38FD6;  // velvet
 //$accent-color: #8FD6B3;  // greenish
 //$accent-color: #35B4DE;  // bluish
@@ -79,28 +79,6 @@ blockquote {
 
 a {
   color: $accent-color;
-}
-
-// add front pic myself
-body::before {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 300px; // Adjust based on how wide the left margin is
-  height: 100%;
-  background-image: url("/assets/images/ThemeP4.jpg"); // use your image path
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: top left;
-  opacity: 0.6; // optional, makes the image blend in
-  z-index: -1;
-}
-
-@media screen and (max-width: 768px) {
-  body::before {
-    display: none;
-  }
 }
 
 //********************************************************
