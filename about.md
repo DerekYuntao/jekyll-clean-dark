@@ -10,7 +10,7 @@ Welcome to **<font color=yellow>Parallel Universe of Yuntao</font>**. This is my
 
 - **My CV:**
 
-**2019-Now**: Ph.D. candidate, research assitant at the Ohio State University, atmospheric science program.
+**2019-Now**: Postdocotral scholar, research assitant at the Ohio State University, atmospheric science program.
 
 **Research areas of interest**: Climate dynamics; stable water isotope physics (clouds, moisture and precipitation); Paleoclimate modeling/simulation.
 I would also like to advance my skills on python software development, data science and machine learning. 
@@ -23,10 +23,10 @@ Please click [Linkedin](https://www.linkedin.com/in/yuntao-bao-5663771bb/) for m
 contact: **<bao.291@osu.edu>**
 
 ``` python
-print('The most intersting thing is to accumulate every progress I make.')
-print("It's a far way to be in shape. Step by step...")
+print("Never perfect. Day by day and Step by step...")
 print("Be halthy and positive")
 ```
 
 updated: 2020/07/25
 updated: 2022/06/01
+updated: 2025/07/08
