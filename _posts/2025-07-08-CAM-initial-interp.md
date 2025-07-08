@@ -71,7 +71,7 @@ For example, interpolate CAM intial condition data from f19 grid to fv02 grid:
 # For land
  cat >! user_nl_clm << EOF
  finidat = 'b.e13.Bi1850C5.f19_g16.6ka.ghg_orb.control.clm2.r.0061-01-01-00000.nc'
- 78 EOF
+ EOF
  ```
 
 **Reference**:
