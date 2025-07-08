@@ -62,4 +62,16 @@ If one only tend to change GHG concentration for the atmosphere-only (and land) 
 ````
 Also, make sure that associated values in *atm_in* have been successfully changed before submiting the case!
 
-Updated: 07/08/2025
+## Example: abrupt quadrupled CO₂ concentration in a coupled CESM run
+Do the following settings：
+````powershell
+./xmlchange CCSM_CO2_PPMV=1138.8   #abrupt-4XCO2 value to be propagated to POP and CLM
+
+ # set namelist
+ cat >! user_nl_cam << EOF
+ !abrupt 4XCO2 to atmosphere
+ co2vmr = 1138.8e-6
+ EOF
+```
+
+Last updated: 07/08/2025
