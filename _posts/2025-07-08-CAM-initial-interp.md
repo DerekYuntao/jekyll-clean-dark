@@ -62,6 +62,6 @@ For example, interpolate CAM intial condition data from f19 grid to fv02 grid:
 ```
 
 **Reference**:
-(https://bb.cgd.ucar.edu/cesm/threads/interpolating-input-data-from-waccm-to-cam-chem.6987/).
+<https://bb.cgd.ucar.edu/cesm/threads/interpolating-input-data-from-waccm-to-cam-chem.6987/>
 
 Updated: 07/08/2025
