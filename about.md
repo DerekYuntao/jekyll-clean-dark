@@ -6,7 +6,7 @@ title: About Me
 
 # About me
 
-Welcome to **<font color=yellow>Parallel Universe of Yuntao</font>**. This is my technical blog.
+Welcome to **<font color=orange>Parallel Universe of Yuntao</font>**. This is my technical blog.
 
 - **My CV:**
 
