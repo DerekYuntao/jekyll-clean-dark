@@ -159,7 +159,20 @@ Reference: <https://yanwei.github.io/misc/markdown-auto-number-title.html>
     font-size: 1.813em;           = 29px          
     font-size: 1.875em;           = 30px  
 
+## Add background pictures to all Github blog pages
+Entering directory *_includes*, nevigating to the bottom of the page, and add the following lines:
+```markdown
+<img src="/jekyll-clean-dark/assets/images/ThemeP4.jpg"
+     alt="Decorative side image"
+     style="position: fixed; top: 0.1; left: 0; height: 100vh; width: 300px; object-fit: cover; z-index: -1; opacity: 0.8;">  
+     
+<img src="/jekyll-clean-dark/assets/images/ThemeP3.jpg"
+     alt="Right decorative image"
+     style="position: fixed; top: 0; right: 0; height: 100vh; width: 200px; object-fit: cover; z-index: -1; opacity: 0.8;">       
+```
+
 Last update: 12/04/2020
 Last update: 02/15/2021
+Last update: 07/08/2025
 
 <link rel="stylesheet" type="text/css" href="/jekyll-clean-dark/assets/css/auto-number-title.css"/>
