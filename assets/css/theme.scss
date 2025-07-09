@@ -26,7 +26,7 @@ $accent-color: #e7a922;    // original =)
 
 $font-color: #dddddd;
 $background-color: #768eb69a;
-$post-panel-color: #343655;
+$post-panel-color: #54587e;
 $footer-background-color: #344557;
 $note-color: #87CEFA;
 $warning-color: #ffff00;
@@ -237,12 +237,12 @@ blockquote.warning p{
 //********************************************************
 nav {
   background-color: #222;
-  border-color: #080808;
+  border-color: #363b4160;
   font-size: 18px;
   font-family: "Ubuntu", sans-serif;
   padding: 0 10px !important;
   border-top: 3px #3CA2A2 solid;
-  border-bottom: 1px #000000 solid;
+  border-bottom: 1px #363b4160 solid;
   .navbar-brand, .nav-link {
    color: #777;
    @include transition(color 0.31s);
