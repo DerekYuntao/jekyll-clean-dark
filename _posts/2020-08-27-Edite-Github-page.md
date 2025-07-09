@@ -164,11 +164,11 @@ Entering directory *_includes*, nevigating to the bottom of the page, and add th
 ```markdown
 <img src="/jekyll-clean-dark/assets/images/ThemeP4.jpg"
      alt="Decorative side image"
-     style="position: fixed; top: 0.1; left: 0; height: 100vh; width: 300px; object-fit: cover; z-index: -1; opacity: 0.8;">  
+     style="position: fixed; top: 0.1; left: 0; height: 100vh; width: 290px; object-fit: cover; z-index: -1; opacity: 0.8;">  
      
 <img src="/jekyll-clean-dark/assets/images/ThemeP3.jpg"
      alt="Right decorative image"
-     style="position: fixed; top: 0; right: 0; height: 100vh; width: 200px; object-fit: cover; z-index: -1; opacity: 0.8;">       
+     style="position: fixed; top: 0; right: 0; height: 100vh; width: 210px; object-fit: cover; z-index: -1; opacity: 0.8;">       
 ```
 
 Last update: 12/04/2020
